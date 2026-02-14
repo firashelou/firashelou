@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=A+self-taught+programmer+and+career+switcher;Welcome+to+my+GitHub+profile!;Building+cool+stuff+with+code+%F0%9F%9A%80" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firashelou" alt="firashelou" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/firashelou90" target="blank"><img src="https://img.shields.io/twitter/follow/firashelou90?logo=twitter&style=for-the-badge" alt="firashelou90" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
